@@ -1,5 +1,4 @@
 # **Challenge del Amigo Secreto | AluraLATAM**
----
 
 Este repositorio contiene mi resolución sobre el challenge de AluraLATAM por el día del amigo.
 
