@@ -41,6 +41,7 @@ function sortearAmigo() {
         let sorteado = amigos[indice];
 
         resultadoElem.innerHTML = `El amigo secreto sorteado es: ${sorteado}`;
+        //Limpio el arreglo y la lista para poder hacer otro sorteo
         amigos = [];
         actualizarLista();
     }
